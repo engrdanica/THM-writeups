@@ -24,5 +24,5 @@ SOC Level 1: 15%
 ### **Room Index**
 | Room Name | Difficulty | Tags | Status | Link |
 |----|----| ---- |----|----|
-| Introduction to EDR | Easy | #EDR | Completed |----|
-
+| Introduction to EDR | Easy | #EDR | Completed |[View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Core%20SOC%20Solutions/Introduction_to_EDR.md)|
+| Introduction to SIEM | Easy | #SIEM | Completed |[View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Core%20SOC%20Solutions/Introduction%20to%20SIEM.md)|
