@@ -5,7 +5,7 @@ This repository contains my TryHackMe room write-ups, notes, and walkthroughs as
 
 --- 
 ### **Learning Progress**
-SOC Level 1: 7%
+SOC Level 1: 15%
 
 ---
 ### **Write-Up Format**
@@ -22,6 +22,7 @@ SOC Level 1: 7%
    
 ---
 ### **Room Index**
-|Room Name|Difficulty|Tags|Status|Link|
-|---------|----------|----|----- |----|
+| Room Name | Difficulty | Tags | Status | Link |
+|----|----| ---- |----|----|
+| Introduction to EDR | Easy | #EDR | Completed |----|
 
