@@ -26,3 +26,5 @@ SOC Level 1: 15%
 |----|----| ---- |----|----|
 | Introduction to EDR | Easy | #EDR | Completed |[View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Core%20SOC%20Solutions/Introduction_to_EDR.md)|
 | Introduction to SIEM | Easy | #SIEM | Completed |[View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Core%20SOC%20Solutions/Introduction%20to%20SIEM.md)|
+| Splunk The Basics | Easy | #Splunk | Completed | [View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Core%20SOC%20Solutions/Splunk_The_Basics.md)|
+|MITRE|Medium|#MITRE #MITREATT&CK|Completed|[View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Cyber_Defense_Frameworks/MITRE.md)|
