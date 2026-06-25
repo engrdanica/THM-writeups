@@ -5,7 +5,7 @@ This repository contains my TryHackMe room write-ups, notes, and walkthroughs as
 
 --- 
 ### **Learning Progress**
-SOC Level 1: 15%
+SOC Level 1: 29%
 
 ---
 ### **Write-Up Format**
@@ -29,3 +29,4 @@ SOC Level 1: 15%
 | Splunk The Basics | Easy | #Splunk | Completed | [View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Core%20SOC%20Solutions/Splunk_The_Basics.md)|
 |MITRE|Medium|#MITRE #MITREATT&CK|Completed|[View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Cyber_Defense_Frameworks/MITRE.md)|
 |Summit| Easy | #PyramidOfPain #MITRE | Completed | [View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Cyber_Defense_Frameworks/Summit.md)|
+|Phishing Fundamentals | Easy | #Emails #Phishing | Completed | [View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Phishing_Analysis/Phishing%20Analysis%20Fundamentals.md)|
