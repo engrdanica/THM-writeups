@@ -5,7 +5,7 @@ This repository contains my TryHackMe room write-ups, notes, and walkthroughs as
 
 --- 
 ### **Learning Progress**
-SOC Level 1: 35%
+SOC Level 1: 36%
 
 ---
 ### **Write-Up Format**
@@ -32,3 +32,4 @@ SOC Level 1: 35%
 |Phishing Fundamentals | Easy | #Emails #Phishing | Completed | [View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Phishing_Analysis/Phishing%20Analysis%20Fundamentals.md)|
 |Phishing Analysis Tools| Easy | #Emails Phishing #ANYRUN | Completed| [View](https://github.com/engrdanica/THM-writeups/edit/main/SOC_Level_1/Phishing_Analysis/Phishing%20Analysis%20Tools.md) |
 |The Greenholt Phish| Easy | #Phishing #SPF #DMARC | Completed | [View](https://github.com/engrdanica/THM-writeups/new/main/SOC_Level_1/Phishing_Analysis) |
+|Snapped Phish-ing Line| Easy| #Phishing | Completed | [View](https://github.com/engrdanica/THM-writeups/blob/main/SOC_Level_1/Phishing_Analysis/Snapped_Phish-ing_Line.md) |
