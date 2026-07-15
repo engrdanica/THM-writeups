@@ -1,4 +1,4 @@
-### Room Overview
+<img width="1135" height="466" alt="image" src="https://github.com/user-attachments/assets/587eb93c-821b-41aa-a2ce-f47e21791a0f" />### Room Overview
 
 a. Room Name: Phishing Analysis Tools
 
@@ -86,6 +86,52 @@ Lastly, I searched for "Potentially Bad Traffic" in the report, and "svchost.exe
 
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/111164eb-c354-46ee-a7ba-cafc44c336d8" />
 
+
+#### Excel Executable
+
+Given website: https://app.any.run/tasks/82d8adc9-38a0-4f0e-a160-48a5e09a6e83
+
+##### Q1. How does ANYRUN classify the .xlsx attachment?
+
+In the upper right side corner, ANYRUN classified the excel file as **Malicious Activity**
+
+<img width="424" height="425" alt="image" src="https://github.com/user-attachments/assets/cf4c01dd-d145-4e9d-ba1d-10363babdf15" />
+
+##### Q2. What is the file name of the Excel attachment?
+
+The upper right of the website also contains the basic information like the file name of the Excel attachment.
+
+<img width="421" height="462" alt="image" src="https://github.com/user-attachments/assets/88b8e8c7-f0b6-4784-821e-cadbd6afba96" />
+
+##### Q3. Investigate the Excel attachment. What is the SHA256 hash value?
+
+Once the link is clicked, another window will pop up containing the different Hashes of the Excel File.
+
+<img width="1274" height="823" alt="image" src="https://github.com/user-attachments/assets/43c15bf9-9ac9-468e-bec1-396260e0b60d" />
+
+##### Q4. Check out the ANYRUN text report. What IP address is associated with the malicious domain biz9holdings.com?
+To generate the text report, I clicked on the **Results** button, then navigate to the text report that will open another window.
+
+<img width="1270" height="944" alt="image" src="https://github.com/user-attachments/assets/8b37a32c-370f-4b0b-81ae-3afc50630bd9" />
+
+From there you can search the domain, and immediately find the IP address that is associated with it.
+
+<img width="1269" height="708" alt="image" src="https://github.com/user-attachments/assets/399fa256-f0db-42f1-9f25-e8ba3d4590b2" />
+
+
+##### Q5. Which other domain is classified as malicious?
+
+Other domain tagged as malicious is also shown in the HTTP request
+
+<img width="1105" height="276" alt="image" src="https://github.com/user-attachments/assets/64eecf27-9d88-416f-acc3-7e88c6c0ca7c" />
+
+
+##### Q6. What vulnerability does this malicious attachment attempt to exploit?
+
+In the behavior activities, it shows that this excel attachment attempt to exploit CVE-2017-11882
+
+<img width="1135" height="466" alt="image" src="https://github.com/user-attachments/assets/4d77b86e-8cd2-47c4-ae77-c119315237ec" />
+
 ### Final Thoughts/Learnings
 - If I were familiar with ANYRUN, it would be easier for me to navigate. On the bright side, it was fun navigating and exploring the website, which makes me better understand the important functions in analyzing phishing emails.
-- I actually like the interface of ANYRUN, although it was overwhelming with the details, but it is necessary.
+- I actually like the interface of ANYRUN, although it was overwhelming with the details. Once you get used to it, it's kind of easy to analyze and navigate.
